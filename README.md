@@ -23,4 +23,4 @@ Exercício de vetores - média de alunos
         - Fim SE
       - Fim Enquanto
     - FIM
-![isso é uma imagem](https://github.com/PabloRomeroDLM/programacao_exercicio_mediafinal/blob/main/media%20final.png)
+![isso é uma imagem](
