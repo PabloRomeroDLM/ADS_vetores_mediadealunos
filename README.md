@@ -23,4 +23,4 @@ Exercício de vetores - média de alunos
         - Fim SE
       - Fim Enquanto
     - FIM
-![isso é uma imagem](
+![isso é uma imagem](https://github.com/PabloRomeroDLM/ADS_vetores_mediadealunos/blob/main/MediaAlunos.png)
